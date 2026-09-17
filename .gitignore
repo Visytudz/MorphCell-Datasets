@@ -1,0 +1,17 @@
+.venv/
+**/__pycache__/
+*.py[cod]
+**/.ipynb_checkpoints/
+*.egg-info/
+
+# Local datasets and generated outputs
+colon/data/
+colon/outputs/
+wheat/data/
+wheat/outputs/
+IntrA/data/
+IntrA/outputs/
+redblood/data/
+redblood/outputs/
+ShapeNet55-34/pcl/
+ShapeNet55-34/splits/
