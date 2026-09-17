@@ -2,6 +2,10 @@
 
 This repository contains the preprocessing code and workspace documentation for the datasets used by MorphCell.
 
+## Data release
+
+The MorphCell dataset is under review at ScienceDB. Reserved DOI: [10.57760/sciencedb.0132h](https://doi.org/10.57760/sciencedb.0132h).
+
 ## Workspaces
 
 - `colon/`: human colon cell preprocessing
